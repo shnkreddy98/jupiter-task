@@ -3,7 +3,7 @@
 #### This task was given as a coding round for Internship at Jupiter.
 
 <b> To run the program: </b>
-<code> python startApp.py </code>
+<code> python3 startApp.py </code>
 
 
 copy the text in <code>input.txt</code> and paste in in the terminal after running the program
