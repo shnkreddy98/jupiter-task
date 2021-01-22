@@ -32,20 +32,19 @@ class databaseClass:
 				if (domainName == i.restaurantName) & (domainPin == i.restaurantPin):
 					print('Login Successfull')
 					return i
-				else:
-					print('wrong name or pin')
+			print('wrong name or pin')
 			return -1
+
 		elif domain == 2:
 			for i in self.userList:
 				if (domainName == i.userName) & (domainPin == i.userPin):
 					print('Login Successfull')
 					return i
-				else:
-					print('wrong name or pin')
+					
+			print('wrong name or pin')
 			return -1
 		else:
 			print('something wrong')
-		return -1
 
 	def addToMenu(self, restaurantObject, foodMenu):
 		restaurantObject.foodMenu = foodMenu
@@ -128,9 +127,9 @@ class databaseClass:
 		return returnList
 
 	def changeStatus(self, orderID, updatedStatus):
-		for i in self.orderList:
-			if orderID == i.orderID:
-				i.orderStatus = updatedStatus
+		for o in self.orderList:
+			if orderID == o.orderID:
+				o.orderStatus = updatedStatus
 
 	def getOrderStatus(self, userObject):
 		orderList = []

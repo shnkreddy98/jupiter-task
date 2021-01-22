@@ -1,0 +1,107 @@
+1
+1
+pallavi
+1998
+1998
+10
+1
+nizam
+1650
+1650
+2
+1
+xao ming
+2020
+2020
+5
+2
+pallavi
+1998
+1
+1
+4
+gobi 65
+60
+indian
+gobi manchuri
+70
+indian
+pasta
+120
+italian
+pizza
+200
+italian
+4
+2
+nizam
+1650
+1
+1
+2
+kabab
+20
+arabi
+chicken biriyani
+210
+arabi
+4
+2
+xao ming
+2020
+1
+1
+2
+manchao soup
+100
+chinese
+chicken noodles
+120
+chinese
+4
+3
+2
+1
+shashank
+1998
+1998
+1
+lemuel
+1990
+1990
+1
+saavn
+1950
+1950
+2
+lemuel
+1990
+2
+chinese
+1
+1
+1
+5
+2
+saavn
+1950
+1
+nizam
+1
+2
+kabab
+3
+chicken biriyani
+2
+5
+2
+shashank
+1998
+1
+xao ming
+1
+1
+chicken noodles
+3
+5
+3
